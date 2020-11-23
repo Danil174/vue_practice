@@ -24,5 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Test User for firebase:
-test2211@mail.ru 
+test@mail.ru
 test16
